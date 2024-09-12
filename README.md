@@ -1,1 +1,1 @@
-![Hotel Revenue Analysis](https://github.com/user-attachments/assets/29f0a13d-52c8-4464-b24a-f2444bc5e78c)
+![Hotel Revenue Analysis](https://github.com/user-attachments/assets/acc2199e-0306-4998-abd5-521a1cb90617)
