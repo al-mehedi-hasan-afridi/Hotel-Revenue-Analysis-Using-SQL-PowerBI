@@ -31,3 +31,4 @@
    - **Transient** customers were the most profitable customer segment, emphasizing the importance of this group in revenue generation.
 
 This analysis provides an overview of performance trends, customer behavior, and hotel comparison for strategic planning.
+
