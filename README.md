@@ -25,7 +25,7 @@
 
 ### 6. Revenue by Room Type:
    - Room Type **A** leads with **$4.6M** in revenue, followed by Room Type **D** at **$2.9M**.
-   - Room Types **E**, **F**, and **G** bring in between **$1.1M** and **$0.5M**, indicating lower demand.
+   - Room Types **E**, **F**, and **G** bring in between **$1.1M**, **$0.5M**, and **$0.5M**, indicating lower demand.
    - The large gap between Room Type **A** and others suggests opportunities for promotions or service enhancement for less popular rooms.
 
 ### 6. General Insights:
