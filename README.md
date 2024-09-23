@@ -1,5 +1,4 @@
-![Hotel Revenue Dashboard](https://github.com/user-attachments/assets/9ba94b95-0265-45a7-a74a-f748f9e042b2)
-
+![Hotel Revenue Dashboard](https://github.com/user-attachments/assets/b1ad57e9-778f-485d-a4b5-564c9b8d28b7)
 
 #               Key Insights             #
 
