@@ -1,4 +1,4 @@
-![Hotel Revenue Analysis](https://github.com/user-attachments/assets/acc2199e-0306-4998-abd5-521a1cb90617)
+![Hotel Revenue Dashboard](https://github.com/user-attachments/assets/9ba94b95-0265-45a7-a74a-f748f9e042b2)
 
 
 #               Key Insights             #
@@ -23,6 +23,11 @@
 ### 5. Guest Stay Patterns:
    - The total number of nights stayed peaked in **August**, followed by **July**, indicating a higher guest count during summer months.
    - There is a visible trend of increased stays starting from **May** through **August**, showing the seasonal nature of hotel occupancy.
+
+### 6. Revenue by Room Type:
+   - Room Type **A** leads with **$4.6M** in revenue, followed by Room Type **D** at **$2.9M**.
+   - Room Types **E**, **F**, and **G** bring in between **$1.1M** and **$0.5M**, indicating lower demand.
+   - The large gap between Room Type **A** and others suggests opportunities for promotions or service enhancement for less popular rooms.
 
 ### 6. General Insights:
    - **City Hotel** not only led in revenue generation but also in the number of repeated guests.
