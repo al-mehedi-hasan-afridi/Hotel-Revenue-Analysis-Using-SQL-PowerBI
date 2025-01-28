@@ -28,7 +28,7 @@
    - Room Types **E**, **F**, and **G** bring in between **$1.1M**, **$0.5M**, and **$0.5M**, indicating lower demand.
    - The large gap between Room Type **A** and others suggests opportunities for promotions or service enhancement for less popular rooms.
 
-### 6. General Insights:
+### 7. General Insights:
    - **City Hotel** not only led in revenue generation but also in the number of repeated guests.
    - The **Resort Hotel** had fewer repeated guests and a smaller share of the total revenue.
    - **Transient** customers were the most profitable customer segment, emphasizing the importance of this group in revenue generation.
